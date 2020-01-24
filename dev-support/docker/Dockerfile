@@ -211,7 +211,7 @@ RUN curl -L -o hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.30
     && dpkg --install hugo.deb \
     && rm hugo.deb
 
-
+# Testing signing
 # Add a welcome message and environment checks.
 COPY hadoop_env_checks.sh /root/hadoop_env_checks.sh
 RUN chmod 755 /root/hadoop_env_checks.sh
