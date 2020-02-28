@@ -209,16 +209,9 @@ See licenses/ for text of these licenses.
 
 Apache Software Foundation License 2.0
 --------------------------------------
-
-
-BSD 2-Clause
-------------
+io.jaegertracing:jaeger-client:0.34.2
 
 
 BSD 3-Clause
 ------------
-
-
-MIT License
------------
-
+com.google.protobuf:protobuf-java:3.7.1

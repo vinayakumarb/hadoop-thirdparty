@@ -4,31 +4,36 @@ Copyright 2006 and onwards The Apache Software Foundation.
 This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
 
-Export Control Notice
----------------------
+---
+Apache Yetus
+Copyright 2008-2017 The Apache Software Foundation
 
-This distribution includes cryptographic software.  The country in
-which you currently reside may have restrictions on the import,
-possession, use, and/or re-export to another country, of
-encryption software.  BEFORE using any encryption software, please
-check your country's laws, regulations and policies concerning the
-import, possession, or use, and re-export of encryption software, to
-see if this is permitted.  See <http://www.wassenaar.org/> for more
-information.
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+---
+Additional licenses for the Apache Yetus Source/Website:
+---
+See LICENSE for terms.
 
-The U.S. Government Department of Commerce, Bureau of Industry and
-Security (BIS), has classified this software as Export Commodity
-Control Number (ECCN) 5D002.C.1, which includes information security
-software using or performing cryptographic functions with asymmetric
-algorithms.  The form and manner of this Apache Software Foundation
-distribution makes it eligible for export under the License Exception
-ENC Technology Software Unrestricted (TSU) exception (see the BIS
-Export Administration Regulations, Section 740.13) for both object
-code and source code.
+--
+This product incorporates portions of the 'Hadoop' project
 
-The following provides more details on the included cryptographic software:
+Copyright 2007-2009 The Apache Software Foundation
 
-This software uses the SSL libraries from the Jetty project written
-by mortbay.org.
-Hadoop Yarn Server Web Proxy uses the BouncyCastle Java
-cryptography APIs written by the Legion of the Bouncy Castle Inc.
+Licensed under the Apache License v2.0
+--
+
+This product contains a modified portion of and optionally depends on 'Protocol Buffers', Google's data
+interchange format, which can be obtained at:
+
+  * LICENSE:
+    * licenses/LICENSE.protobuf.txt (New BSD License)
+  * HOMEPAGE:
+    * https://github.com/google/protobuf
+
+---
+This product contains a modified portion of and optionally depends on 'jaeger-client-java'
+Licensed under the Apache License v2.0
+
+  * HOMEPAGE:
+    * https://github.com/jaegertracing/jaeger-client-java
